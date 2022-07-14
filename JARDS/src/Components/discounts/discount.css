@@ -127,8 +127,9 @@ html {
   
   .pricing-button {
     border: 1px solid #351C15;
+    background-color: #351C15;
     border-radius: 10px;
-    color: #351C15;
+    color: #fff;
     display: inline-block;
     margin: 25px 0;
     padding: 15px 35px;
@@ -142,13 +143,14 @@ html {
   }
   
   .pricing-button.is-featured {
-    background-color: #351C15;
-    color: #fff;
+    background-color: #FFC20E;
+    color: #351C15;
+    border: 1px solid #FFC20E;
   }
   
   .pricing-button.is-featured:hover,
   .pricing-button.is-featured:active {
-    background-color: #351C15;
+    background-color: #FFC20E;
   }
 
   
