@@ -94,26 +94,26 @@ function Shipping() {
           <td> ----------</td>
         </tr>
 
-        <tr class="success">
-    
-          <td>Maximum Volume</td>
-          <td>Starting at $12.40</td>
-          <td>12:30pm</td>
-          <td>1:45pm</td>
-        </tr>
 
-        <tr class="table-success">
-          <td>Medium</td>
+        <tr class="success">
+          <td>Maximum Volume</td>
           <td>Up to 1,728 cubic inches</td>
           <td>Up to 1,452 cubic inches</td>
           <td>Up to 1200 cubic inches</td>
         </tr>
         
-        <tr class="success">
+        <tr class="table-success">
             <td>Shipping Speeds</td>
             <td>Within Five Days, Within Three Business Days, Second Day and Next-Day</td>
             <td>Express Services only (no ground)</td>
             <td>Priority Mail 1-3 budiness days</td>
+          </tr>
+
+          <tr class="success">
+            <td>Declared Value</td>
+            <td>$100</td>
+            <td>$100</td>
+            <td>$50</td>
           </tr>
         
           <tr class="table-success">
